@@ -1,8 +1,8 @@
 [
   {
-    "temple id": "1",
-    "temple name": "नरसोबाची वाडी",
-    "place attribute": "श्री नरसिंहसरस्वती यहां 12 वर्षों तक रहे",
+    "templeId": "1",
+    "templeName": "नरसोबाची वाडी",
+    "placeSpeciality": "श्री नरसिंहसरस्वती यहां 12 वर्षों तक रहे",
     "placeImagePath": "https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
     "start_color": "#FFA72F",
     "end_color": "#FF7765",

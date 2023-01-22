@@ -78,15 +78,15 @@
     "end_color": "#FFFFEB3B"
   },
   {
-    "temple id": "1",
-    "temple name": "Narsobachi Wadi",
-    "place attribute": "Sri Narasimhasaraswati was  live here for 12 years",
+    "templeId": "1",
+    "templeName": "Narsobachi Wadi",
+    "placeSpeciality": "Sri Narasimhasaraswati was  live here for 12 years",
     "start_color": "#FFA72F",
     "placeImagePath": "https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
     "end_color": "#FF7765",
     "placeSubHeading": "Place: Tehsil Shirol, Distt. Kolhapur, Near Mirje Se, Krishna - Panchganga Sangam Sthali.",
     "placeRighteous": "Satpurush: Shri Narasimhasaraswati twelve years ago.",
-    "Sthalamahatmya": "Sthanamahatmya: Lilabhumi-Sri Narasimhasaraswati, Sri Dixit Swami, Sri Vasudevananda Saraswati, Sri Mouni Baba, Sri Ramachandrayogi, Sri Narayana Swami, Sri Gopalaswami, Sri Bramhananda Swami."
+    "placeMahatmya": "Sthanamahatmya: Lilabhumi-Sri Narasimhasaraswati, Sri Dixit Swami, Sri Vasudevananda Saraswati, Sri Mouni Baba, Sri Ramachandrayogi, Sri Narayana Swami, Sri Gopalaswami, Sri Bramhananda Swami."
   },
   {
     "templeId": "11",
@@ -106,9 +106,6 @@
     "placeRighteous": "Satpurush: Shri Kakasaheb Ghaisas.",
     "placeMahatmya": "Special: Datta Mandir ",
     "placeSpeciality": "Dattamandir",
-    "placeImages": [
-        "https://lh3.googleusercontent.com/proxy/E999oOKZCXQMsCSFy1zVR9Dxw8vWS6GcrA2zenI_NBVP23TxhfDt-1TB2aT1N08QfjlFyu_lHnNdBJJz0WNCIzbh0OkAl-tvK1KLd_D8WRzl_ih6gtHsNSlXi_KG7_IZAfHuzoAHrGFepLoZ0FY_fnqBBXkog-I"
-    ],
     "htmlText": "NashikRoadTemple",
     "placeImagePath": "https://raw.githubusercontent.com/onkar2498/JSON/master/images/Nashik/datta.jpg",
     "start_color": "#dce952",

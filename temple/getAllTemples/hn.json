@@ -1,0 +1,167 @@
+[
+  {
+    "temple id": "1",
+    "temple name": "नरसोबाची वाडी",
+    "place attribute": "श्री नरसिंहसरस्वती यहां 12 वर्षों तक रहे",
+    "placeImagePath": "https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
+    "start_color": "#FFA72F",
+    "end_color": "#FF7765",
+    "placeSubHeading": "स्थान: तहसील शिरोल, जिला कोल्हापुर, मिर्जे से के पास, कृष्णा - पंचगंगा संगम स्थली।",
+    "placeRighteous": "सतपुरुष: श्री नरसिंहसरस्वती बारह वर्ष पूर्व।",
+    "Sthalamahatmya": "स्थानमहात्म्य: लीलाभूमि-श्री नरसिंहसरस्वती, श्री दीक्षित स्वामी, श्री वासुदेवानंद सरस्वती, श्री मौनी बाबा, श्री रामचंद्रयोगी, श्री नारायण स्वामी, श्री गोपालस्वामी, श्री ब्रम्हानंद स्वामी।"
+  },
+  {
+    "templeId": "2",
+    "templeName": "श्री श्रेत्र औदुंबर",
+    "placeSpeciality": "श्री नरसिंह-सरस्वती ने यहां चातुर्मास किया था।",
+    "placeImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shreekshetra_Audumbar_Temple.jpg/800px-Shreekshetra_Audumbar_Temple.jpg",
+    "start_color": "#FF009688",
+    "end_color": "#B4034981",
+    "placeSubHeading": "स्थान: भीलवाड़ी स्टेशन से 6 कि.मी. कृष्णा नदी के किनारे।",
+    "placeRighteous": "सतपुरुष: श्री नरसिंह-सरस्वती ने चतुर्मास मनाया।",
+    "placeMahatmya": "स्थानमहात्म्य: श्री ब्रह्मानंद स्वामी ने तपस्या की। ऑडुम्बर स्थित मठ और समाधि। श्री नारायणानंद संन्यास दीक्षा और निवास।"
+  },
+  {
+    "templeId": "3",
+    "templeName": "श्री क्षेत्र कुरवपुर (कुर्गद्दी)",
+    "placeSpeciality": "तपोभूमि, ध्यान, पूजा के लिए एक महान स्थान",
+    "placeImagePath": "https://i.ytimg.com/vi/9xJetk5n1os/maxresdefault.jpg",
+    "start_color": "#FF9C27B0",
+    "end_color": "#B2E60C57",
+    "placeSubHeading": "स्थान: दूरी में द्वीप, आंध्र प्रदेश कृष्णा स्टेशन से 27 किमी",
+    "placeRighteous": "सतपुरुष: श्रीपादश्रीवल्लभ",
+    "placeMahatmya": "विशेष: तपोभूमि, ध्यान, पूजा स्थल"
+  },
+  {
+    "templeId": "4",
+    "templeName": "श्री क्षेत्र पीठापुर",
+    "placeSubHeading": "स्थान: पूर्वी गोदावरी जिला, आंध्र प्रदेश",
+    "placeRighteous": "सतपुरुष: श्रीपाद श्रीवल्लभ स्वामी महाराज",
+    "placeMahatmya": "विशेष: श्रीपाद श्रीवल्लभ जन्मस्थान, कुकुटेश्वर मंदिर, अनघा लक्ष्मी मंदिर, सत्यनारायण मंदिर",
+    "placeSpeciality": "श्रीपाद का जन्मस्थान",
+    "placeImagePath": "https://i.ytimg.com/vi/OJhncFD6adc/maxresdefault.jpg",
+    "start_color": "#FF956BDD",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "5",
+    "templeName": "कर्दळीवन",
+    "placeSubHeading": "स्थान: आंध्र प्रदेश, श्रीशैलम-पातालगंगा-कर्दळीवन",
+    "placeRighteous": "सतपुरुष: श्री नरसिंह सरस्वती, अक्कलकोट स्वामी समर्थ",
+    "placeMahatmya": "विशेष: अक्कम्मा गुहा, श्री स्वामी प्रकटस्थान, श्री नृसिंहसरस्वती महाराज पादुका, तपस्या",
+    "placeSpeciality": "अक्कम्मा गुहा, श्री स्वामी प्रकाशस्थान, श्री नृसिंहसरस्वती महाराज पादुका, तपस्या",
+    "placeImagePath": "https://i.ytimg.com/vi/R-Gi6spLIiY/maxresdefault.jpg",
+    "start_color": "#FF11BD89",
+    "end_color": "#FFFFEB3B"
+  },
+  {
+    "templeId": "6",
+    "templeName": "श्री क्षेत्र मानगांव",
+    "placeSubHeading": "जिला सिंधुदुर्ग - कुडाल से 14 कि.मी.",
+    "placeRighteous": "प. पू. श्रीमद श्री वासुदेवानंद सरस्वती स्वामी",
+    "placeMahatmya": "प. पू. श्रीमद श्री वासुदेवानंद सरस्वती टेम्बे स्वामी का जन्मस्थान, महाराज स्थापना दत्तमूर्ति, टेम्बेस्वामिन की मूर्ति और पदत्रन, ध्यान गुफा",
+    "placeSpeciality": "प. पू. श्रीमद श्री परमहंस परिव्राजकाचार्य वासुदेवानंद सरस्वती (टेम्बे) स्वामी महाराज का जन्मस्थान",
+    "placeImagePath": "https://i.ytimg.com/vi/MmwS8qViYM8/maxresdefault.jpg",
+    "start_color": "#376DF6",
+    "end_color": "#21E8AC"
+  },
+  {
+    "templeId": "7",
+    "templeName": "अबू गुरु शिखर",
+    "placeSubHeading": "स्थान: अरावली पर्वत शिखर, अबुचया पहाड़वार 15 किमी (राजस्थान राज्य), ऊंचाई 1722 मीटर",
+    "placeRighteous": "सतपुरुष: श्री दत्तात्रय",
+    "placeMahatmya": "विशेष: गुरुपादुका, अनुसूया मंदिर",
+    "placeSpeciality": "गुरुपादुका, अनुसूया मंदिर",
+    "placeImagePath": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Arbuda_Mountains.JPG",
+    "start_color": "#ff3f38",
+    "end_color": "#ffa938"
+  },
+  {
+    "templeId": "8",
+    "templeName": "श्रीक्षेत्र बसवकल्याण",
+    "placeSubHeading": "स्थान: हैदराबाद रोड पर सोलापुर से 110 किमी सस्तापुर के पास विभाजित है।",
+    "placeRighteous": "सतपुरुष: सदानंद महाराज।",
+    "placeMahatmya": "विशेष: भगवान गणेश के जन्म की कहानी के अनुसार 48 समाधि हैं, भगवान गणेश की एक बहुत ही सुंदर मूर्ति, जिसका सिर शंकर ने काट दिया था।",
+    "placeSpeciality": "पादुका: श्री शेष दत्त पादुका।",
+    "placeImagePath": "https://media-cdn.tripadvisor.com/media/photo-s/0f/89/cd/aa/basavakalyan.jpg",
+    "start_color": "#52e9cd",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "9",
+    "templeName": "श्री क्षेत्र बचानी के श्री दत्तपादुका, जाग्रत स्थान",
+    "placeSubHeading": "स्थान: कोल्हापुर से 23-25 किमी दक्षिण, विसपुरली से 23-25 किमी दक्षिण, हटाला, गारगोटी रोड, 'कागल' तालुक, 'बचनी' गाँव।",
+    "placeRighteous": "कागल पी.पी. योगिराज गुलवानी महाराज का गाँव है।",
+    "placeMahatmya": "विशेष: 'बचानी' में 'श्री दत्तपादुका' नृसिंहवाड़ी के समान चमकदार है और भक्तों की मनोकामना पूरी करता है।",
+    "placeSpeciality": "पादुका: श्री दत्त पादुका।",
+    "placeImagePath": "https://media-cdn.tripadvisor.com/media/photo-s/0f/89/cd/aa/basavakalyan.jpg",
+    "start_color": "#4b464d",
+    "end_color": "#eb837f"
+  },
+  {
+    "templeId": "10",
+    "templeName": "करणजी - दत्तप्रभुचन अजोल",
+    "placeSubHeading": "स्थान: डिंडोरी के पास, वाणी नासिक-वाणी रास्ते की ओर, 'ओजरखेड बांध' के दाईं ओर।",
+    "placeRighteous": "सतपुरुष: श्री दत्तात्रेय।",
+    "placeMahatmya": "विशेष: श्री दत्तप्रभुंचि पद्मासन की मूर्ति, कर्दम मुनि का आश्रम।",
+    "placeSpeciality": "पद्मासन, कर्दम मुनि के आश्रम में श्री दत्तप्रभु की मूर्ति।",
+    "placeImagePath": "https://i.ytimg.com/vi/Swl7Q-QfijE/hqdefault.jpg",
+    "start_color": "#8A52E9",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "11",
+    "templeName": "श्री क्षेत्र दत्ताभिक्षालिंग मंदिर",
+    "placeSubHeading": "स्थान: रविवार पेठ कोल्हापुर।",
+    "placeRighteous": "सतपुरुषः श्री. दत्त महाराज।",
+    "placeMahatmya": "विशेष: श्री महालक्ष्मी यहाँ श्री गुरुमौली को नित्य दान देती हैं। नाथ संप्रदाय का केंद्र।",
+    "placeSpeciality": "श्री महालक्ष्मी प्रतिदिन श्री गुरुमौली को भिक्षा देती हैं।",
+    "placeImagePath": "https://prahaarkonkan.com/wp-content/uploads/2020/08/IMG-20200825-WA0024-696x1031.jpg",
+    "start_color": "#8A52E9",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "12",
+    "templeName": "श्री क्षेत्र अनुसूयातीर्थ",
+    "placeSubHeading": "स्थान: प्रतापनगर (बड़ौदा, गुजरात राज्य), दभोई से 16 किमी, चांदोद से 3.2 किमी पश्चिम, शिनोर से 8 किमी।",
+    "placeRighteous": "सतपुरुष: महासती साध्वी अनुस्यामाता।",
+    "placeMahatmya": "विशेष: जाग्रत स्थान, जहां रक्तस्त्राव के लिए मिट्टी का प्रयोग किया जाता है, चर्म रोग दूर होते हैं।",
+    "placeSpeciality": "जागरूकता यहां की मिट्टी लगाने से कोढ़ और चर्म रोग भी दूर होते हैं।",
+    "placeImagePath": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/d5/b9/5b/d5b95b532e2a4c704f6c3b48cac84699ff4c6abc46c64b8cfe2c83c4b01058a6.jpg",
+    "start_color": "#719c06",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "13",
+    "templeName": "श्री क्षेत्र अष्टि दत्ता मंदिर - बीड",
+    "placeSubHeading": "स्थान: अहमदनगर से मुंबई-बीड के रास्ते में लगभग 57 किलोमीटर।",
+    "placeRighteous": "सतपुरुष: दत्तमंदिर।",
+    "placeMahatmya": "विशेष: चौतरफा सुंदर 3 फीट ऊंची, मध्य में शिव के साथ दत्त प्रतिमा।",
+    "placeSpeciality": "सभी सुंदर 3. फुट लंबा, शिव में दत्त मूर्ति।",
+    "placeImagePath": "https://prahaarkonkan.com/wp-content/uploads/2020/09/WhatsApp-Image-2020-09-06-at-10.49.11-AM.jpeg",
+    "start_color": "#dce952",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "14",
+    "templeName": "नासिक रोड घैसास दत्ता मंदिर",
+    "placeSubHeading": "स्थान: 2. नासिक रोड, नासिक (महाराष्ट्र राज्य) से किमी",
+    "placeRighteous": "सतपुरुष: श्री काकासाहेब घैसस।",
+    "placeMahatmya": "विशेष: दत्ता मंदिर",
+    "placeSpeciality": "दत्तमंदिर",
+    "placeImagePath": "https://raw.githubusercontent.com/onkar2498/JSON/master/images/Nashik/datta.jpg",
+    "start_color": "#dce952",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "15",
+    "templeName": "श्री क्षेत्र चिकुर्दे दत्ता देवस्थान",
+    "placeSubHeading": "स्थान: चिकुर्दे, ताल। वालवा, जिला सांगली ",
+    "placeRighteous": "सतपुरुष: श्री समर्थ दत्तमहाराज / श्री पंत महाराज",
+    "placeMahatmya": "विशेष: दत्त पादुका",
+    "placeSpeciality": "दत्तमंदिर",
+    "placeImagePath": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/c6/fd/4f/c6fd4fa0b3864c06a6d95c3e469693daeac0713512c3291bb298ca4ba224f930.jpg",
+    "start_color": "#dce952",
+    "end_color": "#376DF6"
+  }
+]

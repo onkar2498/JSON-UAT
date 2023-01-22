@@ -1,0 +1,16 @@
+{ 
+    "templeId" : "12", 
+    "templeName" : "श्री क्षेत्र अनसूयातीर्थ", 
+    "placeSubHeading" : "स्थान: प्रतापनगर (बडोदा, गुजराथ राज्य), डभोई मार्गे १० मैलावर, चांदोद येथून पश्चिमेस २ मैलावर, शिनोर येथून ५ मैलावर हे क्षेत्र.", 
+    "placeRighteous" : "सत्पुरूष: महासती साध्वी अनुसयामाता.", 
+    "placeMahatmya" : "विशेष: जागृत ठिकाण, येथील माती लावल्याने रक्तपिती, त्वचरोगही बरे होतात.", 
+    "placeSpeciality" : "जागृत ठिकाण, येथील माती लावल्याने रक्तपिती, त्वचरोगही बरे होतात.", 
+    "placeImages" : [
+        "https://ansuyamata.org/wp-content/uploads/2020/09/107929279_3077723012321812_5947770871915959739_o-400x400.jpg", 
+        "https://lh3.googleusercontent.com/proxy/C_frOL6MHemCHdgah9Gu71_phGRT2hjX_Va-47DVxjhJWeQy6OAypElUNx_QtnBiFPUw_QIEGLvnUn4INcOiAJXtFNZmRDp-IVq7"
+    ], 
+    "htmlText" : "AnusayaTirthTemple", 
+    "placeImagePath" : "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/d5/b9/5b/d5b95b532e2a4c704f6c3b48cac84699ff4c6abc46c64b8cfe2c83c4b01058a6.jpg", 
+    "start_color" : "#8A52E9", 
+    "end_color" : "#5de8a0"
+}

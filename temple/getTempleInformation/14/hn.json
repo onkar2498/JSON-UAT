@@ -1,0 +1,15 @@
+{
+    "templeId": "14",
+    "templeName": "नासिक रोड घैसास दत्ता मंदिर",
+    "placeSubHeading":"स्थान: 2. नासिक रोड, नासिक (महाराष्ट्र राज्य) से किमी",
+    "placeRighteous": "सतपुरुष: श्री काकासाहेब घैसस।",
+    "placeMahatmya": "विशेष: दत्ता मंदिर",
+    "placeSpeciality":"दत्तमंदिर",
+    "placeImages": [
+        "https://lh3.googleusercontent.com/proxy/E999oOKZCXQMsCSFy1zVR9Dxw8vWS6GcrA2zenI_NBVP23TxhfDt-1TB2aT1N08QfjlFyu_lHnNdBJJz0WNCIzbh0OkAl-tvK1KLd_D8WRzl_ih6gtHsNSlXi_KG7_IZAfHuzoAHrGFepLoZ0FY_fnqBBXkog-I"
+    ],
+    "htmlText": "NashikRoadTemple",
+    "placeImagePath": "https://raw.githubusercontent.com/onkar2498/JSON/master/images/Nashik/datta.jpg",
+    "start_color": "#dce952",
+    "end_color": "#376DF6"
+}

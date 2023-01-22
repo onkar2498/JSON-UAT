@@ -1,0 +1,171 @@
+[
+  
+  {
+    "templeId": "7",
+    "templeName": "Abu Guru Shikhar",
+    "placeSubHeading": "Location: Aravalli mountain peak, Abuchaya Pahadwar 15 km (Rajasthan State), Elevation 1722 meters",
+    "placeRighteous": "Satpurush: Shri Dattatraya ",
+    "placeMahatmya": "Special: Gurupaduka, Anusaya Temple",
+    "placeSpeciality": "Gurupaduka, Anusaya Temple",
+    "placeImagePath": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Arbuda_Mountains.JPG",
+    "start_color": "#ff3f38",
+    "end_color": "#ffa938"
+  },
+  {
+    "templeId": "3",
+    "templeName": "Shri Kshetra Kuravpur (Kurgaddi)",
+    "placeSpeciality": "Tapobhumi, a great place for meditation, worship",
+    "placeImagePath": "https://i.ytimg.com/vi/9xJetk5n1os/maxresdefault.jpg",
+    "start_color": "#FF9C27B0",
+    "end_color": "#B2E60C57",
+    "placeSubHeading": "Location: Island in the distance, Andhra Pradesh 27 km from Krishna station",
+    "placeRighteous": "Satpurush: Shripadashreevallabh",
+    "placeMahatmya": "Special: Tapobhoomi, Meditation, worship place "
+  },  
+  {
+    "templeId" : "4", 
+    "templeName" : "Shri Kshetra Peethapur",
+    "placeSubHeading" : "Location: East Godavari District, Andhra Pradesh ",
+    "placeRighteous" : "Satpurush: Shripad Shrivallabh Swami Maharaj ",
+    "placeMahatmya" : "Special: Shripad Shrivallabh Janmasthan, Kukuteshwar Temple, Anagha Lakshmi Temple, Satyanarayan Temple",
+    "placeSpeciality" : "Birthplace of Shripad", 
+    "placeImagePath" : "https://i.ytimg.com/vi/OJhncFD6adc/maxresdefault.jpg", 
+    "start_color" : "#FF956BDD", 
+    "end_color" : "#376DF6"
+  },
+  {
+    "templeId": "2",
+    "templeName": "Audumbar",
+    "placeSpeciality": "Shri Narasimha-Saraswati performed here Chaturmas.",
+    "placeImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shreekshetra_Audumbar_Temple.jpg/800px-Shreekshetra_Audumbar_Temple.jpg",
+    "start_color": "#FF009688",
+    "end_color": "#B4034981",
+    "placeSubHeading": "Location: 6 kms from Bhilwadi station. On the edge of river Krishna.",
+    "placeRighteous": "Satpurush: Sri Narasimha-Saraswati celebrated Chaturmas.",
+    "placeMahatmya": "PlaceMahatmya: Shree Bramhananda Swaminni Tapa Banana. Math and Samadhi are in Audumbar. Shree Narayanananda Sannyas Deeksha and Vastya."
+  },
+  {
+    "templeId": "6",
+    "templeName": "Shri Kshetra Mangaon",
+    "placeSubHeading": "District Sindhudurg - 14 kms from Kudal",
+    "placeRighteous": "Sri Vasudevananda Saraswati Swami",
+    "placeMahatmya": "Srimad Paramahansa Parivrajakacharya Vasudevananda Saraswati (Tembe) Swami Maharaj's Birthplace, Maharaj Sthapana Dattamurti, Tembeswamin's Murti and Paduka, Meditation Cave",
+    "placeSpeciality": "Birthplace of Srimad Paramahansa Parivrajakacharya Vasudevananda Saraswati (Tembe) Swami Maharaj",
+    "placeImagePath": "https://i.ytimg.com/vi/MmwS8qViYM8/maxresdefault.jpg",
+    "start_color": "#376DF6",
+    "end_color": "#21E8AC"
+  },
+  {
+    "templeId": "10",
+    "templeName": "Karanji - Dattaprabhunchan Ajol",
+    "placeSubHeading": "Location: Dindorinear, Vani Kade Jetana Nashik-Vani Margaonar,Right side of 'Ozharkhed Dham'. ",
+    "placeRighteous": "Satpurush: Shri Dattatreya.",
+    "placeMahatmya": "Special: Idol of Sri Dattaprabhunchi Padmasana, Ashram of Kardam Muni.",
+    "placeSpeciality": "Idol of Shri Dattaprabhu at Padmasana, Ashram of Kardam Muni.",
+    "placeImagePath": "https://i.ytimg.com/vi/Swl7Q-QfijE/hqdefault.jpg",
+    "start_color": "#8A52E9",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "5",
+    "templeName": "Kardalivan",
+    "placeSubHeading": "Places: Andhra Pradesh, Srisailam-Patalganga-Kardalivan",
+    "placeRighteous": "Satpurush: Shri Narasimha Saraswati, Akkalkot Swami Samarth",
+    "placeMahatmya": "Special: Akkamma Guha, Sri Swami Prakatsthan, Sri Nrisihasaraswati Maharaj Paduka, penance ",
+    "placeSpeciality": "Akkamma Guha, Sri Swami Prakatasthan, Sri Nrusihasaraswati Maharaj Paduka, penance",
+    "placeImagePath": "https://i.ytimg.com/vi/R-Gi6spLIiY/maxresdefault.jpg",
+    "start_color": "#FF11BD89",
+    "end_color": "#FFFFEB3B"
+  },
+  {
+    "temple id": "1",
+    "temple name": "Narsobachi Wadi",
+    "place attribute": "Sri Narasimhasaraswati was  live here for 12 years",
+    "start_color": "#FFA72F",
+    "placeImagePath": "https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
+    "end_color": "#FF7765",
+    "placeSubHeading": "Place: Tehsil Shirol, Distt. Kolhapur, Near Mirje Se, Krishna - Panchganga Sangam Sthali.",
+    "placeRighteous": "Satpurush: Shri Narasimhasaraswati twelve years ago.",
+    "Sthalamahatmya": "Sthanamahatmya: Lilabhumi-Sri Narasimhasaraswati, Sri Dixit Swami, Sri Vasudevananda Saraswati, Sri Mouni Baba, Sri Ramachandrayogi, Sri Narayana Swami, Sri Gopalaswami, Sri Bramhananda Swami."
+  },
+  {
+    "templeId": "11",
+    "templeName": "Shri Kshetra Dattabhikshaling Temple",
+    "placeImagePath": "https://prahaarkonkan.com/wp-content/uploads/2020/08/IMG-20200825-WA0024-696x1031.jpg",
+    "placeSubHeading": "Location: Raviwar Peth Kolhapur. ",
+    "placeRighteous": "Satpurush: Shri. Dutt Maharaj.",
+    "placeMahatmya": "Special: Shri Mahalakshmi daily offering alms to Shri Gurumauli here. Center of Nath Sect.",
+    "placeSpeciality": "Shri Mahalakshmi offers alms to Shri Gurumauli here every day.",
+    "start_color": "#8A52E9",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "14",
+    "templeName": "Nashik Road Ghaisas Datta Mandir",
+    "placeSubHeading": "Location: 2. Km from Nashik Road, Nashik (Maharashtra State)",
+    "placeRighteous": "Satpurush: Shri Kakasaheb Ghaisas.",
+    "placeMahatmya": "Special: Datta Mandir ",
+    "placeSpeciality": "Dattamandir",
+    "placeImages": [
+        "https://lh3.googleusercontent.com/proxy/E999oOKZCXQMsCSFy1zVR9Dxw8vWS6GcrA2zenI_NBVP23TxhfDt-1TB2aT1N08QfjlFyu_lHnNdBJJz0WNCIzbh0OkAl-tvK1KLd_D8WRzl_ih6gtHsNSlXi_KG7_IZAfHuzoAHrGFepLoZ0FY_fnqBBXkog-I"
+    ],
+    "htmlText": "NashikRoadTemple",
+    "placeImagePath": "https://raw.githubusercontent.com/onkar2498/JSON/master/images/Nashik/datta.jpg",
+    "start_color": "#dce952",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "12",
+    "templeName": "Shri Kshetra Ansuyatirtha",
+    "placeSubHeading": "Location: Pratapnagar (Baroda, Gujarat State), From Dabhoi 16 Km, 3.2 Km west from Chandod, 8 Km from Shinor.",
+    "placeRighteous": "Satpurush: Mahasati Sadhvi Anusayamata.",
+    "placeMahatmya": "Special: Awakened place, where soil is used for bleeding, skin diseases are cured.",
+    "placeSpeciality": "Awareness, by applying soil here, leprosy and skin diseases are also cured.",
+    "placeImagePath": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/d5/b9/5b/d5b95b532e2a4c704f6c3b48cac84699ff4c6abc46c64b8cfe2c83c4b01058a6.jpg",
+    "start_color": "#719c06",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId" : "9", 
+    "templeName" : "Shri Dattapaduka of Shri Kshetra Bachani, Jagrat Sthan",
+    "placeSubHeading" : "Location: 23-25 km south of Kolhapur, 23-25 km south of Vispurli, left Hatala, Gaargoti road, 'Kagal' taluk, 'Bachni' village.",
+    "placeRighteous" : "Kagal is the village of P.P. Yogiraj Gulvani Maharaj.",
+    "placeMahatmya" : "Special: 'Shri Dattapaduka' at 'Bachani' is as dazzling as Nrusinghwadi and fulfills the wishes of the devotees.",    "placeSpeciality" : "Paduka: Mr. Dutt Paduka.", 
+    "placeImagePath" : "https://media-cdn.tripadvisor.com/media/photo-s/0f/89/cd/aa/basavakalyan.jpg", 
+    "start_color" : "#4b464d", 
+    "end_color" : "#eb837f"
+  },
+  {
+    "templeId": "15",
+    "templeName": "Shri Kshetra Chikurde Datta Devasthan",
+    "placeSubHeading": "Places: Chikurde, Tal. Walva, Dist. Sangli ",
+    "placeRighteous": "Satpurush: Shri Samarth Dattamaharaj / Shri Pant Maharaj ",
+    "placeMahatmya": "Special: Datta Paduka",
+    "placeSpeciality": "Dattamandir",
+    "placeImagePath": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/c6/fd/4f/c6fd4fa0b3864c06a6d95c3e469693daeac0713512c3291bb298ca4ba224f930.jpg",
+    "start_color": "#dce952",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "8",
+    "templeName": "Shrikshetra Basavakalyan",
+    "placeSubHeading": "Location: 110 KM from Solapur on Hyderabad road Sastapur splits near.",
+    "placeRighteous": "Satpurush: Sadanand Maharaj.",
+    "placeMahatmya": "Special: There are 48 mausoleums, according to the story of the birth of Lord Ganesha, a very beautiful idol of Lord Ganesha, who was beheaded by Shankara.",
+    "placeSpeciality": "Paduka: Mr. Shesh Dutt Paduka.",
+    "placeImagePath": "https://media-cdn.tripadvisor.com/media/photo-s/0f/89/cd/aa/basavakalyan.jpg",
+    "start_color": "#52e9cd",
+    "end_color": "#376DF6"
+  },
+  {
+    "templeId": "13",
+    "templeName": "Shri Kshetra Ashti Datta Mandir - Beed",
+    "placeSubHeading": "Location: Around 57 Km on the way of Mumbai-Beed from Ahamad-Nagar.",
+    "placeRighteous": "Satpurush: Dattamandir.",
+    "placeMahatmya": "Special: All-round Sundar 3 feet high, Datta statue with Shiva in the middle.",
+    "placeSpeciality": "All beautiful 3. Feet tall, Datta idol in Shiva.",
+    "placeImagePath": "https://prahaarkonkan.com/wp-content/uploads/2020/09/WhatsApp-Image-2020-09-06-at-10.49.11-AM.jpeg",
+    "start_color": "#dce952",
+    "end_color": "#376DF6"
+  }
+]

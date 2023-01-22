@@ -1,0 +1,18 @@
+{
+    "templeId": "7",
+    "templeName":"अबू गुरु शिखर",
+    "placeSubHeading": "स्थान: अरावली पर्वत शिखर, अबुचया पहाड़वार 15 किमी (राजस्थान राज्य), ऊंचाई 1722 मीटर",
+    "placeRighteous": "सतपुरुष: श्री दत्तात्रय",
+    "placeMahatmya": "विशेष: गुरुपादुका, अनुसूया मंदिर",
+    "placeSpeciality": "गुरुपादुका, अनुसूया मंदिर",
+    "placeImages": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Arbuda_Mountains.JPG",
+        "https://www.abutimes.com/wp-content/uploads/2015/12/gushikar-mount-abu.jpg",
+        "https://trippertravels.com/wp-content/uploads/2019/04/gs3.jpg",
+        "https://mountabu.tourismindia.co.in/images/places-to-visit/header/guru-shikhar-mount-abu-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+    ],
+    "htmlText": "AbuTemple",
+    "placeImagePath": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Arbuda_Mountains.JPG",
+    "start_color": "#ff3f38",
+    "end_color": "#ffa938"
+}

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+  <link rel="mask-icon" type="" href="imagesmask-icon.svg" color="#111">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/cms/app.min.js"></script>
+  <link href="cms/css/app.min.css" rel="stylesheet">
+  <!-- Bootstrap core CSS-->
+  <link href="css/bootstrap-4.5.0-min.css" rel="stylesheet">
+  <!-- Custom fonts for this template-->
+  <link href="cms/css/font-awesome.css" rel="stylesheet" type="text/css">
+  <!-- Page level plugin CSS-->
+  <!-- Custom styles for this template-->
+  <link href="cms/css/dataTables.bootstrap4.css" rel="stylesheet">
+  
+  <link href="cms/css/sb-admin.css" rel="stylesheet">
+  <link href="cms/css/main.css" rel="stylesheet">
+  <link href="cms/css/materialdesignicons.min.css" rel="stylesheet">
+  <link href="cms/css/sidebar.css" rel="stylesheet">
+
+  <!-- Custom styles for this template-->
+  <link rel="stylesheet" type="text/css" href="cms/css/button.bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="cms/css/dataTables.bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="cms/css/select.bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="cms/css/responsive.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="cms/css/bootstrap-datepicker3.css">
+    <script>
+    $(function(){
+      $("#includedContent").load("cms-panel");
+    });
+    </script>
+
+</head>
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+  <!-- Navigation-->
+   <div id="includedContent"></div>
+
+  <div class="content-wrapper">
+    <div class="container-fluid">
+      <!-- Breadcrumbs
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="#">Location Data Page</a>
+        </li>
+        <li class="breadcrumb-item active">Course</li>
+      </ol>-->
+      <!-- Icon Cards-->
+    <div id="root">
+
+      <form>
+          <!--<button>New</button>-->
+        <div class="col-md-12 btnmartop">
+          <!-- Trigger the modal with a button -->
+          <div id="breadcrumbs"></div>
+
+        <h5>Update Video</h5>
+
+    <!-- Modal -->
+    <div id="newLocationDataModal" class="modal fade" role="dialog" data-keyboard="false" data-backdrop="static">
+      <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content" >
+          <div class="modal-header">
+            <h4 id="modalLocationDataHeaderText" class="modal-title">Add Location</h4>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+          </div>
+          <div class="model-padding">
+          <div class="row">
+            <div class="col-sm-6 col-md-6 col-lg-6">
+            <div class="form-group">
+              <label >Country Code* :</label>
+              <label id="errorcountryCodetext" class="error text-danger"></label>
+              <select id="countryCodetext" type="text" class="form-control" onchange="onChangeCountryName()" placeholder="Enter Country Code">
+                <option></option>
+              </select>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-6 col-lg-6">
+          <div class="form-group">
+              <label >Location Name* :</label>
+              <label id="errorlocationNametext" class="error text-danger"></label>
+              <select id="locationNametext" type="text" onclick="clearerrormsg()" oninput="onChangeLocation()" placeholder="Enter Location Name" class="form-control"></select>
+           </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6 col-md-6 col-lg-6">
+          <div class="form-group">
+              <label >Page Url* :</label>
+              <label id="errorlocationpageUrltext" class="error text-danger"></label>
+              <input id="locationpageUrltext" type="text" onclick="clearerrormsg()" placeholder="Enter Page URL" class="form-control" disabled>
+            </div>
+          </div>
+      </div>
+          <div class="modal-footer" style="display:block">
+            <button type="button" onclick="onLocationDataForm()"  class="btn btn-primary" >Submit</button>
+          </div>
+          <div class="row">
+           <div class="col-md-12">
+               <p class="text-muted"><strong>*</strong> These fields are required.</p>
+           </div>
+       </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <table id="locationTable" class="display table table-striped table-bordered data-table-width" >
+      <div class="autocomplete autocompleteSelect col-sm-6 col-md-6 col-lg-6 margin-table-button-new" >
+        <input type="button" id="newLocationDataButton" onclick="onNewLocation()" class="btn btn-info btn-sm table-new-button" value="New" >
+    </div>
+        <thead>
+              <tr>
+                <th>Video Title</th>
+                <th>Video Desc</th>
+                <th>Youtube URL</th>
+                <th>Action</th>
+              </tr>
+          </thead>
+      </table>
+      </div>
+      </form>
+    </div>
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fa fa-angle-up"></i>
+    </a>
+  </div>
+
+ </div>
+
+ <!-- Bootstrap core JavaScript-->
+ <script src="js/cms/bootstrap.bundle.min.js"></script>
+ <script src="js/cms/jquery.easing.min.js"></script>
+ <script src="js/cms/jquery.dataTables.js"></script>
+ <script src="js/cms/dataTables.bootstrap4.js"></script>
+ <script src="js/cms/sb-admin.min.js"></script>
+ <script src="js/cms/sb-admin-datatables.min.js"></script>
+ <script src="js/cms/eModal.js"></script>
+ <script src="js/cms/video.js"></script>
+</body>
+</html>

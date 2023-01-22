@@ -1,0 +1,19 @@
+{
+    "templeId": "10",
+    "templeName": "करणजी - दत्तप्रभुचन अजोल",
+    "placeSubHeading": "स्थान: डिंडोरी के पास, वाणी नासिक-वाणी रास्ते की ओर, 'ओजरखेड बांध' के दाईं ओर।",
+    "placeRighteous": "सतपुरुष: श्री दत्तात्रेय।",
+    "placeMahatmya": "विशेष: श्री दत्तप्रभुंचि पद्मासन की मूर्ति, कर्दम मुनि का आश्रम।",
+    "placeSpeciality": "पद्मासन, कर्दम मुनि के आश्रम में श्री दत्तप्रभु की मूर्ति।",
+    "placeImages": [
+        "https://i.ytimg.com/vi/Swl7Q-QfijE/hqdefault.jpg",
+        "https://i.ytimg.com/vi/M4TszFjAiKI/maxresdefault.jpg",
+        "https://prashantghotikar.files.wordpress.com/2018/02/p_20180218_101559_hdr.jpg",
+        "https://prashantghotikar.files.wordpress.com/2018/02/p_20180218_102333_hdr.jpg",
+        "https://prashantghotikar.files.wordpress.com/2018/02/p_20180218_103025_hdr.jpg"
+    ],
+    "htmlText": "KaranjiTemple",
+    "placeImagePath": "https://i.ytimg.com/vi/Swl7Q-QfijE/hqdefault.jpg",
+    "start_color": "#8A52E9",
+    "end_color": "#376DF6"
+}

@@ -1,0 +1,18 @@
+{ 
+    "templeId" : "4", 
+    "templeName" : "श्री क्षेत्र पीठापुर",
+    "placeSubHeading" : "स्थान: पूर्वी गोदावरी जिला, आंध्र प्रदेश",
+    "placeRighteous" : "सतपुरुष: श्रीपाद श्रीवल्लभ स्वामी महाराज",
+    "placeMahatmya" : "विशेष: श्रीपाद श्रीवल्लभ जन्मस्थान, कुकुटेश्वर मंदिर, अनघा लक्ष्मी मंदिर, सत्यनारायण मंदिर",
+    "placeSpeciality" : "श्रीपाद का जन्मस्थान",
+    "placeImages" : [
+        "https://5.imimg.com/data5/UP/JP/GLADMIN-9483757/rudrabhishekam-pooja-service-500x500.jpg", 
+        "https://media-cdn.tripadvisor.com/media/photo-s/11/63/08/24/img-20171127-wa0031-largejpg.jpg", 
+        "https://1.bp.blogspot.com/-6T1GBHXHf3U/XcWc92B2VQI/AAAAAAAAypk/b8XJEuCN5uUnnV-ufAYRVAsS081IS2ELgCLcBGAsYHQ/w1200-h630-p-k-no-nu/pithapuram%2Btemple.jpg", 
+        "https://scontent.fnag1-1.fna.fbcdn.net/v/t31.0-8/904710_394262944040316_781480555_o.jpg?_nc_cat=105&_nc_sid=6e5ad9&_nc_ohc=MHPcooE7TrIAX-3FuSo&_nc_ht=scontent.fnag1-1.fna&oh=34f6f8f2d9ea7bc840d724fedaa4b6de&oe=5F595775"
+    ], 
+    "htmlText" : "PitapurTemple", 
+    "placeImagePath" : "https://i.ytimg.com/vi/OJhncFD6adc/maxresdefault.jpg", 
+    "start_color" : "#FF956BDD", 
+    "end_color" : "#376DF6"
+}

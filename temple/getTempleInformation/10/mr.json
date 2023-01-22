@@ -1,0 +1,19 @@
+{ 
+    "templeId" : "10", 
+    "templeName" : "करंजी -'श्रीदत्तप्रभूंचं आजोळ'", 
+    "placeSubHeading" : "स्थान: दिंडोरीजवळ, वणी कडे जाताना नाशिक-वणी मार्गांवर, ओझरखेड धरणाच्या उजव्या बाजूला. ", 
+    "placeRighteous" : "सत्पुरूष: श्री दत्तात्रेय. ", 
+    "placeMahatmya" : "विशेष: श्री दत्तप्रभूंची पद्मासन स्थित मूर्ती, कर्दम मुनींचा आश्रम.", 
+    "placeSpeciality" : "श्री दत्तप्रभूंची पद्मासन स्थित मूर्ती, कर्दम मुनींचा आश्रम.", 
+    "placeImages" : [
+        "https://i.ytimg.com/vi/Swl7Q-QfijE/hqdefault.jpg", 
+        "https://i.ytimg.com/vi/M4TszFjAiKI/maxresdefault.jpg", 
+        "https://prashantghotikar.files.wordpress.com/2018/02/p_20180218_101559_hdr.jpg", 
+        "https://prashantghotikar.files.wordpress.com/2018/02/p_20180218_102333_hdr.jpg", 
+        "https://prashantghotikar.files.wordpress.com/2018/02/p_20180218_103025_hdr.jpg"
+    ], 
+    "htmlText" : "KaranjiTemple", 
+    "placeImagePath" : "https://i.ytimg.com/vi/Swl7Q-QfijE/hqdefault.jpg", 
+    "start_color" : "#015c2d", 
+    "end_color" : "#376DF6"
+}

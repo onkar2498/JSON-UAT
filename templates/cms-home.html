@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+  <link rel="mask-icon" type="" href="imagesmask-icon.svg" color="#111">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/cms/app.min.js"></script>
+  <link href="cms/css/app.min.css" rel="stylesheet">
+  <link href="css/bootstrap-4.5.0-min.css" rel="stylesheet">
+  <link href="cms/css/materialdesignicons.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template-->
+
+  <link href="cms/css/font-awesome.css" rel="stylesheet" type="text/css">
+  <!-- Page level plugin CSS-->
+  <!-- Custom styles for this template-->
+  <link href="cms/css/dataTables.bootstrap4.css" rel="stylesheet">
+  <link href="cms/css/sb-admin.css" rel="stylesheet">
+  <link href="cms/css/main.css" rel="stylesheet">
+  <link href="cms/css/admin.css" rel="stylesheet">
+
+  <!-- Custom styles for this template-->
+  <link rel="stylesheet" type="text/css" href="cms/css/select.bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="cms/css/responsive.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="cms/css/bootstrap-datepicker3.css">
+  <script>
+    $(function() {
+      $("#includedContent").load("cms-panel");
+      $("#dashboard-card-template").load("cms-dashboard-cards");
+      $("#breadcrumbs").load("cms-breadcrumbs");
+    });
+  </script>
+  <style>
+    .circle {
+      margin: 20px;
+      display: inline-block;
+      padding: 10px;
+      text-align: center;
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+    }
+
+    .circle::before,
+    .circle::after {
+      position: absolute;
+      z-index: -1;
+      display: block;
+      content: '';
+    }
+
+    .circle,
+    .circle::before,
+    .circle::after {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      -webkit-transition: all .5s;
+      transition: all .5s;
+    }
+
+    .circle {
+      position: relative;
+      z-index: 2;
+      /*background-color: #fff;
+      border: 2px solid #343a40;
+      color: #343a40;*/
+      line-height: 20px;
+      overflow: hidden;
+      box-shadow: 10px -8px 0px #CCC;
+    }
+
+
+    .circle::after {
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      -webkit-transform: scale(.5);
+      transform: scale(.5);
+
+    }
+
+    .circle:hover::after {
+      /*background: #868e96;
+      box-shadow: 0 0 0 2px #ff3847;*/
+      box-shadow: 0 0 0 2px grey;
+      border-radius: 50%;
+      -webkit-transform: scale(.9);
+      transform: scale(.9);
+
+    }
+
+
+    .circle a {
+      text-decoration: none;
+      color: white;
+    }
+
+    .circle a:hover {
+      text-decoration: none;
+      color: white;
+    }
+
+    .circle h2 {
+      font-size: 60px;
+    }
+
+    .circle h2 small {
+      color: #343a40;
+    }
+
+    .circle p {
+      font-size: 1.5em;
+      line-height: 1.2em;
+      padding: 1.1em 0em 0em 0em;
+    }
+    .background-image-home{
+      background-size: 100%;
+      background-repeat: no-repeat;
+    }
+  </style>
+</head>
+
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+
+  <div id="includedContent"></div>
+  <div class="content-wrapper">
+    <div class="container-fluid background-image-home">
+      <br>
+      <div id="breadcrumbs"></div>
+      <div id="root">
+        <div id="dashboard-card-template"></div>
+
+      </div>
+    </div>
+  </div>
+  <script src="js/cms/bootstrap.bundle.min.js"></script>
+  <script src="js/cms/jquery.easing.min.js"></script>
+</body>
+<footer id="footer-bottom" style="color:#fbfbfb">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <div class="block" style="margin-left:40%">
+                        <p>Copyright &#xA9; 2020 - All Rights Reserved.Design and Developed By <a href="#">Onkar</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</html>

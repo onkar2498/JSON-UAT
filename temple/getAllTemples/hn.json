@@ -3,7 +3,7 @@
     "templeId": "1",
     "templeName": "नरसोबाची वाडी",
     "placeSpeciality": "श्री नरसिंहसरस्वती यहां 12 वर्षों तक रहे",
-    "placeImagePath": "https://github.com/onkar2498/JSON/blob/master/images/narsobawadi.jpg",
+    "placeImagePath": "https://raw.githubusercontent.com/onkar2498/JSON/master/images/narsobawadi.jpg",
     "start_color": "#FFA72F",
     "end_color": "#FF7765",
     "placeSubHeading": "स्थान: तहसील शिरोल, जिला कोल्हापुर, मिर्जे से के पास, कृष्णा - पंचगंगा संगम स्थली।",
@@ -116,7 +116,7 @@
     "placeRighteous": "सतपुरुषः श्री. दत्त महाराज।",
     "placeMahatmya": "विशेष: श्री महालक्ष्मी यहाँ श्री गुरुमौली को नित्य दान देती हैं। नाथ संप्रदाय का केंद्र।",
     "placeSpeciality": "श्री महालक्ष्मी प्रतिदिन श्री गुरुमौली को भिक्षा देती हैं।",
-    "placeImagePath": "https://github.com/onkar2498/JSON/blob/master/images/datta-bhikshaling.jpg",
+    "placeImagePath": "https://raw.githubusercontent.com/onkar2498/JSON/master/images/datta-bhikshaling.jpg",
     "start_color": "#8A52E9",
     "end_color": "#376DF6"
   },
@@ -138,7 +138,7 @@
     "placeRighteous": "सतपुरुष: दत्तमंदिर।",
     "placeMahatmya": "विशेष: चौतरफा सुंदर 3 फीट ऊंची, मध्य में शिव के साथ दत्त प्रतिमा।",
     "placeSpeciality": "सभी सुंदर 3. फुट लंबा, शिव में दत्त मूर्ति।",
-    "placeImagePath": "https://github.com/onkar2498/JSON/blob/master/images/ashti.jpg",
+    "placeImagePath": "https://raw.githubusercontent.com/onkar2498/JSON/master/images/ashti.jpg",
     "start_color": "#dce952",
     "end_color": "#376DF6"
   },
